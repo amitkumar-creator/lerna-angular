@@ -27,5 +27,6 @@
       "default": "./fesm2020/common-login.mjs"
     }
   },
-  "sideEffects": false
+  "sideEffects": false,
+  "gitHead": "415662e04b6a1cc5ba34cba9f4dbdb260c545611"
 }
